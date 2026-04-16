@@ -8,3 +8,5 @@ Implement a simple image processing pipeline.
 - Complete the functions in `src/main.py`
 - The starter currently includes a simple `add` example so you can validate setup
 - Run tests with: `pytest`
+
+- I make a change HERE!
