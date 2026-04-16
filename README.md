@@ -10,3 +10,4 @@ Implement a simple image processing pipeline.
 - Run tests with: `pytest`
 
 - I make a change HERE!
+- Another one here.
